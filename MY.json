@@ -60,8 +60,14 @@
         "ic_channel_announcements_thread_locked": -9060430,
         "ic_channel_announcements_thread_nsfw": -9060430,
         "ic_channel_voice": -9060430,
-        "ic_channel_lock_16dp": -9060430,
-        "ic_channel_text_grey_18dp": -9060430
+        "ic_channel_text_grey_18dp": -9060430,
+        "ic_channel_text": -9060430,
+        "ic_thread": -9060430,
+        "ic_thread_locked": -9060430,
+        "ic_thread_nsfw": -9060430,
+        "ic_channel_voice_locked": -9060430,
+        "ic_channel_stage_locked": -9060430,
+        "ic_channel_stage_16dp": -9060430
     },
     "raws": {}
 }
