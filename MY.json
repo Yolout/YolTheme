@@ -27,10 +27,17 @@
         "primary_dark_300": -4210753,
         "ripple_material_dark": -11915194,
         "ripple_material_light": -11915194,
-        "primary_dark_800": -15397613,
         "primary_dark_630": -15134696,
         "primary_dark_660": -15331819,
-        "primary_dark_700": -15397356
+        "primary_dark_700": -15397356,
+        "abc_tint_switch_track": -15069160,
+        "transparent": -15660271,
+        "dim_foreground_material_light": -15463405,
+        "status_grey_200": -9060430,
+        "primary_dark_100": -11915194,
+        "brand_new": -9060430,
+        "white_800": -15463405,
+        "primary_dark_800": -15660271
     },
     "drawable_tints": {
         "ic_status_online_16dp": -9060430,
@@ -42,9 +49,6 @@
         "drawable_voice_indicator_speaking": -9060430,
         "ic_remove_circle_outline_red_24dp": -4254443,
         "ic_ban_red_24dp": -4254443,
-        "ic_boosted_badge_12dp": -4254443,
-        "ic_boosted_badge_18dp": -4254443,
-        "ic_boosted_badge_24dp": -4254443,
         "ic_mic_mute_red_strike_24dp": -4254443,
         "ic_call_disconnect_24dp": -4254443,
         "ic_phone_24dp": -9060430,
@@ -53,7 +57,6 @@
         "ic_add_friend_plus": -9060430,
         "ic_add_friend_send": -9060430,
         "drawable_voice_controls_bg": -14806243,
-        "drawable_button_grey": -15266026,
         "ic_remove_friend_red_24dp": -4254443,
         "ripple_circle_red": -4254443,
         "ic_x_red_24dp": -4254443,
@@ -67,7 +70,8 @@
         "ic_thread_nsfw": -9060430,
         "ic_channel_voice_locked": -9060430,
         "ic_channel_stage_locked": -9060430,
-        "ic_channel_stage_16dp": -9060430
+        "ic_channel_stage_16dp": -9060430,
+        "drawable_button_grey": -2399699
     },
     "raws": {}
 }
