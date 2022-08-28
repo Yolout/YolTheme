@@ -4,13 +4,15 @@
         "version": "1.0",
         "name": "Artemis",
         "license": "EPL-2.0",
-        "updater": "https://raw.githubusercontent.com/Yolout/YolTheme/main/ATMS(Copy).json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Yolout\/YolTheme\/main\/ATMS(Copy).json"
     },
     "background": {},
-    "fonts": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/879927840513085523\/1013262406924914750\/Typold_Condensed_Medium.otf"
+    },
     "simple_colors": {
         "background": -15459802,
-        "background_secondary": -15592159,
+        "background_secondary": -15723745,
         "mention_highlight": -14142387,
         "active_channel": -14077356,
         "accent": -10115418,
