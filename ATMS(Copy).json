@@ -1,14 +1,14 @@
 {
     "manifest": {
         "author": "Yolout#1738",
-        "version": "1.0",
+        "version": "1.1",
         "name": "Artemis",
         "license": "EPL-2.0",
-        "updater": "https://raw.githubusercontent.com/Yolout/YolTheme/main/ATMS(Copy).json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Yolout\/YolTheme\/main\/ATMS(Copy).json"
     },
     "background": {},
     "fonts": {
-        "*": "https://cdn.discordapp.com/attachments/879927840513085523/1013262406924914750/Typold_Condensed_Medium.otf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/879927840513085523\/1013262406924914750\/Typold_Condensed_Medium.otf"
     },
     "simple_colors": {
         "background": -15459802,
@@ -29,7 +29,7 @@
         "ripple_material_light": -14536378,
         "dark_grey_2": -14472387,
         "ripple_material_dark": -14865860,
-        "primary_700": -15789546,
+        "primary_700": -15921386,
         "primary_630": -15591908,
         "primary_dark_800": -15921130,
         "primary_dark_400": -2241596,
@@ -42,7 +42,11 @@
         "abc_tint_switch_track": -16051944,
         "transparent": -15921130,
         "dim_foreground_material_light": -15591908,
-        "status_grey_200": -10115418
+        "status_grey_200": -10115418,
+        "primary_600": -10115418,
+        "primary_660": -14472387,
+        "primary_300": -15921386,
+        "primary_700_alpha_60": -10115418
     },
     "drawable_tints": {
         "drawable_voice_indicator_speaking": -10115418,
@@ -55,7 +59,15 @@
         "ic_phone_24dp": -10115418,
         "ic_check_green_24dp": -10115418,
         "ic_blocked_12dp": -65536,
-        "drawable_button_grey": -14472387
+        "drawable_button_grey": -14472387,
+        "drawable_voice_user_background_speaking": -14472387,
+        "ic_channel_text_locked": -859428,
+        "ic_channel_text_nsfw": -859428,
+        "ic_channel_announcements_locked": -859428,
+        "ic_channel_announcements_nsfw": -859428,
+        "ic_channel_announcements_thread": -859428,
+        "ic_channel_announcements_thread_locked": -859428,
+        "ic_channel_announcements_thread_nsfw": -859428
     },
     "raws": {}
 }
