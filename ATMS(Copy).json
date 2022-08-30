@@ -1,14 +1,14 @@
 {
     "manifest": {
         "author": "Yolout#1738",
-        "version": "1.1",
+        "version": "1.1.1",
         "name": "Artemis",
         "license": "EPL-2.0",
-        "updater": "https://raw.githubusercontent.com/Yolout/YolTheme/main/ATMS(Copy).json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Yolout\/YolTheme\/main\/ATMS(Copy).json"
     },
     "background": {},
     "fonts": {
-        "*": "https://cdn.discordapp.com/attachments/879927840513085523/1014165994547191909/typold.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/879927840513085523\/1014165994547191909\/typold.ttf"
     },
     "simple_colors": {
         "background": -15459802,
