@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "name": "Fucking Awesome Blue Flaming Skull Theme",
+        "version": "1.0",
+        "license": "Fuck 3.0",
+        "author": "Yolout#0416"
+    },
+    "background": {
+        "overlay_alpha": 100,
+        "blur_radius": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/879927858154332201\/1024980230475092039\/Skeletor.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/879927858154332201\/1024989702450855966\/HoganMania.ttf"
+    },
+    "simple_colors": {
+        "input_background": 1912602624,
+        "statusbar": 1981027347,
+        "accent": -16739152,
+        "active_channel": -1275029303,
+        "mention_highlight": 715385343,
+        "background": -15588300,
+        "background_secondary": -15590867
+    },
+    "colors": {
+        "primary_dark_630": 603979776,
+        "primary_dark_700": 385875968,
+        "primary_dark_600": 754974720,
+        "primary_dark_900": -905969664,
+        "primary_dark_800": -771751936,
+        "primary_dark_500": -905969664,
+        "primary_dark_660": 1493172224,
+        "white_800": -1442840576,
+        "transparent": 6052148,
+        "primary_700": -905245941,
+        "uikit_btn_bg_color_selector_green": -16739152
+    },
+    "drawable_tints": {
+        "ic_channel_text": -16739152,
+        "ic_channel_announcements": -16739152,
+        "ic_channel_lock_16dp": -16739152,
+        "drawable_voice_indicator_speaking": -16739152
+    },
+    "raws": {}
+}
