@@ -3,7 +3,8 @@
         "name": "Fucking Awesome Blue Flaming Skull Theme",
         "version": "1.0",
         "license": "Fuck 3.0",
-        "author": "Yolout#0416"
+        "author": "Yolout#0416",
+        "updater": "https:\/\/raw.githubusercontent.com\/Yolout\/YolTheme\/main\/FuckingAwesomeTheme.json"
     },
     "background": {
         "overlay_alpha": 100,
