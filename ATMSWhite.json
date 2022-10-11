@@ -1,8 +1,10 @@
 {
     "manifest": {
-        "author": "Yolout#1738",
+        "author": "Yolout#0556",
         "name": "Artemis White",
-        "version": "0.1"
+        "version": "0.1",
+        "license": "I Forgor 💀",
+        "updater": "https:\/\/raw.githubusercontent.com\/Yolout\/YolTheme\/main\/ATMSWhite.json"
     },
     "background": {},
     "fonts": {
