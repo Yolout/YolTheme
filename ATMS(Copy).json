@@ -1,8 +1,7 @@
 {
     "manifest": {
-        "author": "Yolout#1738",
-        "version": "1.2",
-        "name": "Artemis",
+        "author": "Yolout#0556",
+        "name": "Artemis 2",
         "license": "EPL-2.0",
         "updater": "https:\/\/raw.githubusercontent.com\/Yolout\/YolTheme\/main\/ATMS(Copy).json"
     },
@@ -11,7 +10,7 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/879927840513085523\/1014165994547191909\/typold.ttf"
     },
     "simple_colors": {
-        "background": -15459802,
+        "background": -14803685,
         "background_secondary": -15723745,
         "mention_highlight": -14142387,
         "active_channel": -14077356,
@@ -46,7 +45,8 @@
         "primary_600": -10115418,
         "primary_660": -14472387,
         "primary_300": -15921386,
-        "primary_700_alpha_60": -10115418
+        "primary_700_alpha_60": -10115418,
+        "primary_500_alpha_20": -13155490
     },
     "drawable_tints": {
         "drawable_voice_indicator_speaking": -10115418,
@@ -60,7 +60,6 @@
         "ic_check_green_24dp": -10115418,
         "ic_blocked_12dp": -65536,
         "drawable_button_grey": -14472387,
-        "drawable_voice_user_background_speaking": -14472387,
         "ic_channel_text_locked": -859428,
         "ic_channel_text_nsfw": -859428,
         "ic_channel_announcements_locked": -859428,
